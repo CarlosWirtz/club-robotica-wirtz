@@ -1,6 +1,5 @@
 # Invernadero IoT · Cuaderno de prácticas
 
-Nov 25, 2026 · @Carlos
 
 En este proyecto del club de robótica vais a construir un invernadero automatizado de verdad. Primero lo simuláis en Tinkercad con Arduino UNO, después lo lleváis a un ESP32 conectado a internet en Wokwi y, al final, lo montáis físicamente con componentes reales. Cada práctica añade un componente o una idea a lo anterior y cabe en sesiones de 30 minutos. No hay entregas ni notas: la meta es que el invernadero funcione.
 
